@@ -1,0 +1,5 @@
+{
+  "name": "Hidden Gems Finder",
+  "description": "Discover hidden spots and gems around your current location with high ratings and low review counts.",
+  "requestFramePermissions": ["geolocation"]
+}
